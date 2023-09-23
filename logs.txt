@@ -1,0 +1,68 @@
+ZuneVideo
+Done!Getstarted
+Done!BingNews
+Done!Paint
+Done!ZuneMusic
+Done!MicrosoftEdge
+Remove-AppxPackage : ‘Ў®© а §ўҐавлў ­Ёп б HRESULT: 0x80073CFA, ‘Ў®© г¤ «Ґ­Ёп. ЋЎа вЁвҐбм Є Ї®бв ўйЁЄг Їа®Ја ¬¬­®Ј® ®ЎҐбЇҐзҐ­Ёп. (€бЄ«озҐ­ЁҐ Ё§ HRESULT: 0x80073CFA)
+ЋиЁЎЄ  0x80070032: Їа®Ё§®иҐ« бЎ®© ®ЇҐа жЁЁ а §ўҐавлў ­Ёп AppX Remove ¤«п Ї ЄҐв  Microsoft.MicrosoftEdgeDevToolsClient_1000.22621.1.0_neutral_neutral_8wekyb3d8bbwe Ё§ C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClien
+t_8wekyb3d8bbwe. ќв® ЇаЁ«®¦Ґ­ЁҐ пў«пҐвбп з бвмо Windows, Ё ҐЈ® ­Ґў®§¬®¦­® г¤ «Ёвм ¤«п Є®­ЄаҐв­ле Ї®«м§®ў вҐ«Ґ©. Ђ¤¬Ё­Ёбва в®а ¬®¦Ґв Ї®Їлв вмбп ®вЄ«озЁвм ҐЈ® ­  Є®¬ЇмовҐаҐ б Ї®¬®ймо дг­ЄжЁЁ "‚Є«озҐ­ЁҐ Ё«Ё ®вЄ«озҐ­ЁҐ Є®¬Ї®­Ґ­в
+®ў Windows". ’Ґ¬ ­Ґ ¬Ґ­ҐҐ, ўҐа®пв­®, г¤ «Ёвм ЇаЁ«®¦Ґ­ЁҐ ­Ґ г¤ бвбп.
+Џђ€Њ…—ЂЌ€…. —в®Ўл Ї®«гзЁвм ¤®Ї®«­ЁвҐ«м­лҐ бўҐ¤Ґ­Ёп, ­ ©¤ЁвҐ [ActivityId] dfef8195-ee18-0007-5859-f0df18eed901 ў ¦га­ «Ґ б®ЎлвЁ© Ё«Ё ўўҐ¤ЁвҐ ў Є®¬ ­¤­®© бва®ЄҐ Get-AppxLog -ActivityID dfef8195-ee18-0007-5859-f0df18eed901.
+бва®Є :1 §­ Є:35
++ Get-AppxPackage *MicrosoftEdge* | Remove-AppxPackage
++                                   ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Micro...l_8wekyb3d8bbwe:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
+Remove-AppxPackage : ‘Ў®© а §ўҐавлў ­Ёп б HRESULT: 0x80073CFA, ‘Ў®© г¤ «Ґ­Ёп. ЋЎа вЁвҐбм Є Ї®бв ўйЁЄг Їа®Ја ¬¬­®Ј® ®ЎҐбЇҐзҐ­Ёп. (€бЄ«озҐ­ЁҐ Ё§ HRESULT: 0x80073CFA)
+ЋиЁЎЄ  0x80070032: Їа®Ё§®иҐ« бЎ®© ®ЇҐа жЁЁ а §ўҐавлў ­Ёп AppX Remove ¤«п Ї ЄҐв  Microsoft.MicrosoftEdge_44.22621.2283.0_neutral__8wekyb3d8bbwe Ё§ C:\WINDOWS\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe. ќв® ЇаЁ«®¦Ґ­ЁҐ пў
+«пҐвбп з бвмо Windows, Ё ҐЈ® ­Ґў®§¬®¦­® г¤ «Ёвм ¤«п Є®­ЄаҐв­ле Ї®«м§®ў вҐ«Ґ©. Ђ¤¬Ё­Ёбва в®а ¬®¦Ґв Ї®Їлв вмбп ®вЄ«озЁвм ҐЈ® ­  Є®¬ЇмовҐаҐ б Ї®¬®ймо дг­ЄжЁЁ "‚Є«озҐ­ЁҐ Ё«Ё ®вЄ«озҐ­ЁҐ Є®¬Ї®­Ґ­в®ў Windows". ’Ґ¬ ­Ґ ¬Ґ­ҐҐ, ўҐа®пв­
+®, г¤ «Ёвм ЇаЁ«®¦Ґ­ЁҐ ­Ґ г¤ бвбп.
+Џђ€Њ…—ЂЌ€…. —в®Ўл Ї®«гзЁвм ¤®Ї®«­ЁвҐ«м­лҐ бўҐ¤Ґ­Ёп, ­ ©¤ЁвҐ [ActivityId] dfef8195-ee18-0007-6159-f0df18eed901 ў ¦га­ «Ґ б®ЎлвЁ© Ё«Ё ўўҐ¤ЁвҐ ў Є®¬ ­¤­®© бва®ЄҐ Get-AppxLog -ActivityID dfef8195-ee18-0007-6159-f0df18eed901.
+бва®Є :1 §­ Є:35
++ Get-AppxPackage *MicrosoftEdge* | Remove-AppxPackage
++                                   ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Micro...__8wekyb3d8bbwe:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
+Todos
+Done!YourPhone
+Done!MicrosoftTeams
+Done!MicrosoftEdge
+Remove-AppxPackage : ‘Ў®© а §ўҐавлў ­Ёп б HRESULT: 0x80073CFA, ‘Ў®© г¤ «Ґ­Ёп. ЋЎа вЁвҐбм Є Ї®бв ўйЁЄг Їа®Ја ¬¬­®Ј® ®ЎҐбЇҐзҐ­Ёп. (€бЄ«озҐ­ЁҐ Ё§ HRESULT: 0x80073CFA)
+ЋиЁЎЄ  0x80070032: Їа®Ё§®иҐ« бЎ®© ®ЇҐа жЁЁ а §ўҐавлў ­Ёп AppX Remove ¤«п Ї ЄҐв  Microsoft.MicrosoftEdgeDevToolsClient_1000.22621.1.0_neutral_neutral_8wekyb3d8bbwe Ё§ C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClien
+t_8wekyb3d8bbwe. ќв® ЇаЁ«®¦Ґ­ЁҐ пў«пҐвбп з бвмо Windows, Ё ҐЈ® ­Ґў®§¬®¦­® г¤ «Ёвм ¤«п Є®­ЄаҐв­ле Ї®«м§®ў вҐ«Ґ©. Ђ¤¬Ё­Ёбва в®а ¬®¦Ґв Ї®Їлв вмбп ®вЄ«озЁвм ҐЈ® ­  Є®¬ЇмовҐаҐ б Ї®¬®ймо дг­ЄжЁЁ "‚Є«озҐ­ЁҐ Ё«Ё ®вЄ«озҐ­ЁҐ Є®¬Ї®­Ґ­в
+®ў Windows". ’Ґ¬ ­Ґ ¬Ґ­ҐҐ, ўҐа®пв­®, г¤ «Ёвм ЇаЁ«®¦Ґ­ЁҐ ­Ґ г¤ бвбп.
+Џђ€Њ…—ЂЌ€…. —в®Ўл Ї®«гзЁвм ¤®Ї®«­ЁвҐ«м­лҐ бўҐ¤Ґ­Ёп, ­ ©¤ЁвҐ [ActivityId] dfef8195-ee18-0002-7c9f-f2df18eed901 ў ¦га­ «Ґ б®ЎлвЁ© Ё«Ё ўўҐ¤ЁвҐ ў Є®¬ ­¤­®© бва®ЄҐ Get-AppxLog -ActivityID dfef8195-ee18-0002-7c9f-f2df18eed901.
+бва®Є :1 §­ Є:35
++ Get-AppxPackage *MicrosoftEdge* | Remove-AppxPackage
++                                   ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Micro...l_8wekyb3d8bbwe:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
+Remove-AppxPackage : ‘Ў®© а §ўҐавлў ­Ёп б HRESULT: 0x80073CFA, ‘Ў®© г¤ «Ґ­Ёп. ЋЎа вЁвҐбм Є Ї®бв ўйЁЄг Їа®Ја ¬¬­®Ј® ®ЎҐбЇҐзҐ­Ёп. (€бЄ«озҐ­ЁҐ Ё§ HRESULT: 0x80073CFA)
+ЋиЁЎЄ  0x80070032: Їа®Ё§®иҐ« бЎ®© ®ЇҐа жЁЁ а §ўҐавлў ­Ёп AppX Remove ¤«п Ї ЄҐв  Microsoft.MicrosoftEdge_44.22621.2283.0_neutral__8wekyb3d8bbwe Ё§ C:\WINDOWS\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe. ќв® ЇаЁ«®¦Ґ­ЁҐ пў
+«пҐвбп з бвмо Windows, Ё ҐЈ® ­Ґў®§¬®¦­® г¤ «Ёвм ¤«п Є®­ЄаҐв­ле Ї®«м§®ў вҐ«Ґ©. Ђ¤¬Ё­Ёбва в®а ¬®¦Ґв Ї®Їлв вмбп ®вЄ«озЁвм ҐЈ® ­  Є®¬ЇмовҐаҐ б Ї®¬®ймо дг­ЄжЁЁ "‚Є«озҐ­ЁҐ Ё«Ё ®вЄ«озҐ­ЁҐ Є®¬Ї®­Ґ­в®ў Windows". ’Ґ¬ ­Ґ ¬Ґ­ҐҐ, ўҐа®пв­
+®, г¤ «Ёвм ЇаЁ«®¦Ґ­ЁҐ ­Ґ г¤ бвбп.
+Џђ€Њ…—ЂЌ€…. —в®Ўл Ї®«гзЁвм ¤®Ї®«­ЁвҐ«м­лҐ бўҐ¤Ґ­Ёп, ­ ©¤ЁвҐ [ActivityId] dfef8195-ee18-0006-5478-f2df18eed901 ў ¦га­ «Ґ б®ЎлвЁ© Ё«Ё ўўҐ¤ЁвҐ ў Є®¬ ­¤­®© бва®ЄҐ Get-AppxLog -ActivityID dfef8195-ee18-0006-5478-f2df18eed901.
+бва®Є :1 §­ Є:35
++ Get-AppxPackage *MicrosoftEdge* | Remove-AppxPackage
++                                   ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Micro...__8wekyb3d8bbwe:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
+BingWeather
+Done!WindowsCalculator
+Done!Windows.PeopleExperienceHost
+Remove-AppxPackage : ‘Ў®© а §ўҐавлў ­Ёп б HRESULT: 0x80073CFA, ‘Ў®© г¤ «Ґ­Ёп. ЋЎа вЁвҐбм Є Ї®бв ўйЁЄг Їа®Ја ¬¬­®Ј® ®ЎҐбЇҐзҐ­Ёп. (€бЄ«озҐ­ЁҐ Ё§ HRESULT: 0x80073CFA)
+ЋиЁЎЄ  0x80070032: Їа®Ё§®иҐ« бЎ®© ®ЇҐа жЁЁ а §ўҐавлў ­Ёп AppX Remove ¤«п Ї ЄҐв  Microsoft.Windows.PeopleExperienceHost_10.0.22621.1_neutral_neutral_cw5n1h2txyewy Ё§ C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceHos
+t_cw5n1h2txyewy. ќв® ЇаЁ«®¦Ґ­ЁҐ пў«пҐвбп з бвмо Windows, Ё ҐЈ® ­Ґў®§¬®¦­® г¤ «Ёвм ¤«п Є®­ЄаҐв­ле Ї®«м§®ў вҐ«Ґ©. Ђ¤¬Ё­Ёбва в®а ¬®¦Ґв Ї®Їлв вмбп ®вЄ«озЁвм ҐЈ® ­  Є®¬ЇмовҐаҐ б Ї®¬®ймо дг­ЄжЁЁ "‚Є«озҐ­ЁҐ Ё«Ё ®вЄ«озҐ­ЁҐ Є®¬Ї®­Ґ­в
+®ў Windows". ’Ґ¬ ­Ґ ¬Ґ­ҐҐ, ўҐа®пв­®, г¤ «Ёвм ЇаЁ«®¦Ґ­ЁҐ ­Ґ г¤ бвбп.
+Џђ€Њ…—ЂЌ€…. —в®Ўл Ї®«гзЁвм ¤®Ї®«­ЁвҐ«м­лҐ бўҐ¤Ґ­Ёп, ­ ©¤ЁвҐ [ActivityId] dfef8195-ee18-0000-001e-f2df18eed901 ў ¦га­ «Ґ б®ЎлвЁ© Ё«Ё ўўҐ¤ЁвҐ ў Є®¬ ­¤­®© бва®ЄҐ Get-AppxLog -ActivityID dfef8195-ee18-0000-001e-f2df18eed901.
+бва®Є :1 §­ Є:50
++ Get-AppxPackage *Windows.PeopleExperienceHost* | Remove-AppxPackage
++                                                  ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Microsoft.Windo...l_cw5n1h2txyewy:String) [Remove-AppxPackage], IOException
+    + FullyQualifiedErrorId : DeploymentError,Microsoft.Windows.Appx.PackageManager.Commands.RemoveAppxPackageCommand
+ 
